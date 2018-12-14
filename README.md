@@ -1,4 +1,5 @@
 1、jmeter的二次改造，压测结果支持按秒压缩，包括秒级RT汇总、maxRT汇总、RT明细(K-V压缩)、tps指标等
+
 2、可将下游流式计算部分分析工作前移，分担给压测机集群(dynamic集群规模弹性扩缩)
 
 ![Apache JMeter logo](https://jmeter.apache.org/images/logo.svg)
