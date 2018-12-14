@@ -2,10 +2,6 @@
 
 2、可将下游流式计算部分分析工作前移，分担给压测机集群(dynamic集群规模弹性扩缩)
 
-![Apache JMeter logo](https://jmeter.apache.org/images/logo.svg)
-# Apache JMeter
-
-## What is it?
 
 Apache JMeter is a 100% pure Java application designed to test
 and measure performance.  It may be used as a highly portable 
